@@ -21,7 +21,7 @@ h1 {
 
 body{
   background-color: cornflowerblue;
-  text-emphasis-color: white;
+  color : white;
 }
 
 .LINK{
@@ -31,4 +31,5 @@ body{
 .ContactInfo{
   float: right;
 }
+
 
